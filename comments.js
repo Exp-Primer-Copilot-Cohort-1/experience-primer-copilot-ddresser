@@ -1,4 +1,4 @@
-// create web server and listen to port 3000
+// Create web server and listen to port 3000
 // to run: node comments.js
 
 const express = require('express');
